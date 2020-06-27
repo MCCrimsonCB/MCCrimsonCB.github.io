@@ -12,3 +12,6 @@ Seine Person ist in allen Geschichten größtenteils identisch. Entgegen seiner 
 * guter Boxer
 * stark in CQC
 * verwöhnt die Tachikoma
+
+###### Zitate von Batou:
+> That's all it is: Information. Even a simulated experience or a dream; simultaneous reality and fantasy. Any way you look at it, all the information that a person accumulates in a lifetime is just a drop in the bucket.
