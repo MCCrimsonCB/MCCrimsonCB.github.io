@@ -15,3 +15,5 @@ Seine Person ist in allen Geschichten größtenteils identisch. Entgegen seiner 
 
 ###### Zitate von Batou:
 > That's all it is: Information. Even a simulated experience or a dream; simultaneous reality and fantasy. Any way you look at it, all the information that a person accumulates in a lifetime is just a drop in the bucket.
+
+<img src="https://vignette.wikia.nocookie.net/ghostintheshell/images/f/ff/Batou-Films.jpg/revision/latest/scale-to-width-down/340?cb=20100625043910&path-prefix=en"/>
